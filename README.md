@@ -20,6 +20,4 @@ De este conjunto de datos se selecciono los indicadores de satisfacción de la a
 # Visualización del Data Set
 
 Se presenta una visualización de gráfico de calibre o velocímetro como una técnica de representación del estado o valor actual de una métrica o indicador calculado. 
-Para tal fin se utiliza el programa Excel; se recomienda que la métrica o indicador a visualizar por medio de un gráfico de calibre o velocímetro este expresado en porcentaje. A continuación se presenta el enlace que lleva a la visualización:
-
-file:///H:/Master_Ciencia_Datos/Cursos/Visualizaci%C3%B3n/A5.%20Estudio%20de%20t%C3%A9cnicas_PEC2/Gauge_diagram_web/Gauge_diagram_web_2.htm
+Para tal fin se utiliza el programa Excel; se recomienda que la métrica o indicador a visualizar por medio de un gráfico de calibre o velocímetro este expresado en porcentaje.
