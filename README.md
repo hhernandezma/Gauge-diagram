@@ -1,4 +1,6 @@
-# Gauge-diagram
+# Gauge-diagram (Gráfico de Calibre o Velocímetro)
+
+La visualización de gráfico de calibre o velocímetro es una técnica de representación del estado o valor actual de una métrica o indicador calculado. En un diagrama de indicadores, el valor de cada aguja se lee dentro del rango de datos coloreado o el eje del gráfico. Este tipo de gráfico se utiliza con frecuencia en informes de panel de control ejecutivo para mostrar los indicadores clave de rendimiento.Son útiles para comparar valores entre un pequeño número de variables, ya sea usando varias agujas en el mismo indicador o usando varios indicadores. Se recomienda que la métrica o indicador a visualizar por medio de un gráfico de calibre o velocímetro este expresado en porcentaje.
 
 # A5: Estudio de técnicas de visualización de datos (PEC2)
 
