@@ -26,4 +26,4 @@ De este conjunto de datos se seleccionó los indicadores de satisfacción de la 
 # Visualización del Data Set
 
 Se presenta una visualización de gráfico de calibre o velocímetro como una técnica de representación del estado o valor actual de una métrica o indicador calculado. 
-Para tal fin se utiliza el programa Excel; se recomienda que la métrica o indicador a visualizar por medio de un gráfico de calibre o velocímetro este expresado en porcentaje.
+Para tal fin se utilizó el programa Excel; se recomienda que la métrica o indicador a visualizar por medio de un gráfico de calibre o velocímetro este expresado en porcentaje.
