@@ -21,7 +21,7 @@ La actividad ha sido realizada de manera individual por Hernando Hernández Mari
 El conjunto de datos se localiza en la página web del Instituto de Desarrollo Urbano de Bogotá – Colombia:
 https://www.idu.gov.co/page/observatorio-2021
 
-De este conjunto de datos se selecciono los indicadores de satisfacción de la atención de PQRS entre el primer y tercer trimestre del año 2021, los cuales son presentados en la diapositiva final de cada una de ellas.
+De este conjunto de datos se seleccionó los indicadores de satisfacción de la atención de PQRS entre el primer y tercer trimestre del año 2021, los cuales son presentados en la diapositiva final de cada una de ellas.
 
 # Visualización del Data Set
 
